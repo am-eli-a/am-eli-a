@@ -9,7 +9,7 @@
 🎓 Étudiante en 2e année de **BUT Informatique** à l'IUT de Lens
 
 [![Email](https://img.shields.io/badge/Email-duf.amelia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duf.amelia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-am--eli--a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am-eli-a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-am--eli--a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-dufour-lazrek-159101375/)
 [![itch.io](https://img.shields.io/badge/itch.io-am--eli--a-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://am-eli-a.itch.io)
 
 ---

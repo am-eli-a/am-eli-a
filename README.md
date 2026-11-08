@@ -74,5 +74,5 @@
 ## 📫 Me contacter
 
 - ✉️ [duf.amelia@gmail.com](mailto:duf.amelia@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/am-eli-a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amelia-dufour-lazrek-159101375/)
 - 🎮 [itch.io](https://am-eli-a.itch.io)
